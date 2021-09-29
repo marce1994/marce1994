@@ -9,7 +9,7 @@ Technology, crypto, and decentralization enthusiast.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marce1994&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks ✌
+Thanks 🎉
 <!--
 **marce1994/marce1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

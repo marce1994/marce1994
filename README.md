@@ -6,11 +6,17 @@ My name is Pablo and I'm a Full-stack developer. I work mainly with .Net Core an
 
 Technology, crypto, and decentralization enthusiast.
 
+Thanks 🎉
+
+
+
+
 [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marce1994&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks 🎉
 <!--
 **marce1994/marce1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

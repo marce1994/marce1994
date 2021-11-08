@@ -1,5 +1,4 @@
-# Marce 1994 (93 actually 😢) [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
-
+# @marce1994 (I'm from the 93 actually 😢) [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
 
 Hello there,
 
@@ -10,7 +9,6 @@ Technology, crypto, and decentralization enthusiast.
 Thanks 🎉
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marce1994&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

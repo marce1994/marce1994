@@ -1,4 +1,5 @@
-# Marce 1994 (93 actually 😢)
+# Marce 1994 (93 actually 😢) [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
+
 
 Hello there,
 
@@ -7,11 +8,6 @@ My name is Pablo and I'm a Full-stack developer. I work mainly with .Net Core an
 Technology, crypto, and decentralization enthusiast.
 
 Thanks 🎉
-
-
-
-
-[![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&show_icons=true&theme=radical)
 

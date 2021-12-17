@@ -1,10 +1,17 @@
 # @marce1994 (I'm from the 93 actually 😢) [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
 
-Hello there,
+Hello there 👋
 
-My name is Pablo and I'm a Full-stack developer. I work mainly with .Net Core and Angular, but I also know other technologies. I'm not active in the open-source community and that's why I don't have much activity here. I use Github most for practice and find code examples.
+### Profile:
+ - I have 4+ years of experience working as a full-stack developer
+ - I'm currently working as a full stack .Net & Angular
+ - I like to build personal projects, and learn new things
+ - Currently learning about web3 and blockchain inside the [buildspace](https://buildspace.so/) comunity
+ - Also learning Rust 🦀 and solidity
 
-Technology, crypto, and decentralization enthusiast.
+### Contact me:
+ - [Linkedin](https://www.linkedin.com/in/pablo-marcelo-bianco/)
+ - [Twitter](https://twitter.com/devflype93)
 
 Thanks 🎉
 

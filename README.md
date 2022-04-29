@@ -1,4 +1,4 @@
-# @marce1994 (I'm from the 93 actually 😢) [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
+# @marce1994 [![wakatime](https://wakatime.com/badge/user/fd2db70d-aaf1-49ea-a930-b7d85dd9cec8.svg)](https://wakatime.com/@fd2db70d-aaf1-49ea-a930-b7d85dd9cec8)
 
 Hello there 👋
 

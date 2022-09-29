@@ -4,15 +4,16 @@ Hello there 👋
 
 ### Profile:
  - I have 5+ years of experience working as a full-stack developer
- - I'm currently working as a full stack .Net & Angular
+ - I'm currently working as a full stack developer
  - I like to build personal projects, and learn new things
  - Currently learning about web3 and blockchain inside the [buildspace](https://buildspace.so/) comunity
  - Also learning Rust 🦀 and solidity
+ - Foundry lover
 
 ### Contact me:
  - [Linkedin](https://www.linkedin.com/in/pablo-marcelo-bianco/)
  - [Twitter](https://twitter.com/devflype93)
-
+ - [ENS](https://pablitodev.eth.limo)
 Thanks 🎉
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&layout=compact&hide=issues&show_icons=true&theme=radical)

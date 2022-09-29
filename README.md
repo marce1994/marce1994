@@ -16,11 +16,9 @@ Hello there 👋
  - [ENS](https://pablitodev.eth.limo)
 Thanks 🎉
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marce1994&layout=compact&hide=issues&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marce1994&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marce1993&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--END_SECTION:waka-->
 
 
 <!--

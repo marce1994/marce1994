@@ -17,7 +17,7 @@ Hello there 👋
 Thanks 🎉
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
@@ -65,7 +65,7 @@ Linux                    21 mins             ███████████�
 ```
 
 
- Last Updated on 30/09/2022 02:22:16 UTC
+ Last Updated on 30/09/2022 05:24:09 UTC
 <!--END_SECTION:waka-->
 
 

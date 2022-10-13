@@ -6,7 +6,7 @@ Hello there 👋
  - I have 5+ years of experience working as a full-stack developer
  - I'm currently working as a full stack developer
  - I like to build personal projects, and learn new things
- - Currently learning about web3 and blockchain inside the [buildspace](https://buildspace.so/) comunity
+ - Currently learning about web3 and blockchain
  - Also learning Rust 🦀 and solidity
  - Foundry lover
 
@@ -14,6 +14,7 @@ Hello there 👋
  - [Linkedin](https://www.linkedin.com/in/pablo-marcelo-bianco/)
  - [Twitter](https://twitter.com/devflype93)
  - [ENS](https://pablitodev.eth.limo)
+
 Thanks 🎉
 
 <!--START_SECTION:waka-->

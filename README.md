@@ -38,21 +38,18 @@ Thanks 🎉
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-PHP                      1 hr 27 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   71.09% 
-Vue.js                   30 mins             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.43% 
-JavaScript               5 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.4% 
-Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.08%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/10/2022 01:48:16 UTC
+ Last Updated on 23/10/2022 01:51:18 UTC
 <!--END_SECTION:waka-->
 
 

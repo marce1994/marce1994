@@ -18,13 +18,13 @@ Hello there 👋
 Thanks 🎉
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 389.6 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2023
+> 🏆 10 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -52,7 +52,7 @@ Linux                    3 hrs 47 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 17/04/2023 00:13:48 UTC
+ Last Updated on 18/04/2023 00:13:19 UTC
 <!--END_SECTION:waka-->
 
 

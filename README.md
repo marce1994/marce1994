@@ -3,7 +3,7 @@
 Hello there 👋
 
 ### Profile:
- - I have 5+ years of experience working as a full-stack developer
+ - I have 7+ years of experience working as a full-stack developer
  - I'm currently working as a full stack developer
  - I like to build personal projects, and learn new things
  - Currently learning about web3 and blockchain

@@ -24,7 +24,7 @@ Thanks 🎉
 
 > 📦 403.6 kB Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2023
+> 🏆 93 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -32,27 +32,8 @@ Thanks 🎉
  > 
 > 🔑 9 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-JavaScript               10 hrs 16 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.92 % 
-CSS                      56 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.34 % 
-JSON                     18 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.44 % 
-TypeScript               18 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.40 % 
-Other                    17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.20 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 51 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-💻 Operating System: 
-Linux                    12 hrs 51 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-
- Last Updated on 06/12/2023 00:14:20 UTC
+ Last Updated on 07/12/2023 00:14:16 UTC
 <!--END_SECTION:waka-->
 
 

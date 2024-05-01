@@ -24,8 +24,6 @@ Thanks 🎉
 
 > 📦 685.0 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -38,19 +36,17 @@ Thanks 🎉
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Vue.js                   1 hr 34 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.70 % 
-Other                    2 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.19 % 
-CSS                      1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/04/2024 00:13:43 UTC
+ Last Updated on 01/05/2024 00:15:19 UTC
 <!--END_SECTION:waka-->
 
 

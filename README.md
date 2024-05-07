@@ -24,8 +24,6 @@ Thanks 🎉
 
 > 📦 685.2 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -52,7 +50,7 @@ Linux                    4 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 06/05/2024 00:14:40 UTC
+ Last Updated on 07/05/2024 00:14:25 UTC
 <!--END_SECTION:waka-->
 
 

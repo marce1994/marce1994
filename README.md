@@ -24,7 +24,7 @@ Thanks 🎉
 
 > 📦 997.6 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2024
+> 🏆 118 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -38,8 +38,7 @@ Thanks 🎉
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.68 % 
-Image (svg)              0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.32 % 
+TypeScript               26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔥 Editors: 
 VS Code                  26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
@@ -49,7 +48,7 @@ Linux                    26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 31/10/2024 00:18:20 UTC
+ Last Updated on 01/11/2024 00:20:16 UTC
 <!--END_SECTION:waka-->
 
 

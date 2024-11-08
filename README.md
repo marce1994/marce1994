@@ -24,6 +24,8 @@ Thanks 🎉
 
 > 📦 997.6 kB Used in GitHub's Storage 
  > 
+> 🏆 118 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 79 Public Repositories 
@@ -36,17 +38,17 @@ Thanks 🎉
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/11/2024 00:17:36 UTC
+ Last Updated on 08/11/2024 00:17:37 UTC
 <!--END_SECTION:waka-->
 
 

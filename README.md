@@ -18,13 +18,13 @@ Hello there 👋
 Thanks 🎉
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 998.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 1 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,7 +48,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/05/2025 00:22:12 UTC
+ Last Updated on 13/05/2025 00:20:53 UTC
 <!--END_SECTION:waka-->
 
 

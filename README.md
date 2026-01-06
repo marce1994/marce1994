@@ -18,7 +18,7 @@ Hello there 👋
 Thanks 🎉
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,7 +48,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 00:25:26 UTC
+ Last Updated on 06/01/2026 00:23:03 UTC
 <!--END_SECTION:waka-->
 
 

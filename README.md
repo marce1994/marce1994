@@ -26,7 +26,7 @@ Thanks 🎉
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,855 Contributions in the Year 2026
+> 🏆 1,856 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,50 +40,50 @@ Thanks 🎉
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               17 hrs 56 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.42 % 
-Other                    13 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.94 % 
-Markdown                 7 hrs 59 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.12 % 
-Text                     3 hrs 23 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.26 % 
-JavaScript               1 hr 51 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.97 % 
+TypeScript               21 hrs 33 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.10 % 
+Other                    13 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.75 % 
+Markdown                 7 hrs 59 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.24 % 
+Text                     3 hrs 27 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.58 % 
+Python                   2 hrs 52 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.48 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 28 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.12 % 
-Codex Exec               10 hrs 11 mins      ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.84 % 
-VS Code                  1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.04 % 
+Claude Code              37 hrs 55 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   72.29 % 
+Codex Exec               14 hrs 31 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.68 % 
+VS Code                  1 min               ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.03 % 
 
 💻 Operating System: 
-WSL                      37 hrs 32 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.42 % 
-Linux                    9 hrs 8 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.58 % 
+WSL                      43 hrs 19 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   82.58 % 
+Linux                    9 hrs 8 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 40 mins (100.0%)
+⏱ AI Coding Time: 52 hrs 27 mins (100.0%)
 
-✍️ 33,630 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 46,754 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 81,442,128 Input Tokens, 8,583,742 Output Tokens
+🔤 126,221,952 Input Tokens, 10,070,951 Output Tokens
 
-💵 $1808.20 Estimated AI Cost This Week
+💵 $2442.64 Estimated AI Cost This Week
 
-🧠 283 AI Sessions, 1260 AI Prompts
+🧠 420 AI Sessions, 1435 AI Prompts
 
-Opus                     33,405 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.37 % 
-GPT                      555 lines           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.63 % 
+Opus                     46,621 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.82 % 
+GPT                      555 lines           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.18 % 
 Sonnet                   0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 Codex-Exec               0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 Haiku                    0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,061 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 9,477 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 04:43:42 UTC
+ Last Updated on 10/10/2026 04:29:17 UTC
 <!--END_SECTION:waka-->
 
 
